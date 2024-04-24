@@ -14,4 +14,8 @@ WorkShop to learn how to use SolidWorks 3D design software
 
 SolidWorks 3D : https://education.solidworks.fr/licence_student_standard_etudiant/
 
-## Requirement
+## Requirement Minimal Configuration
+
+![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/e655f7b9-4419-4660-b271-aea3081213a8)
+
+
