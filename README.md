@@ -35,7 +35,7 @@ Product Key will be gived on Workshop Day
 
 ![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/5e15668d-21a7-4632-a6e8-13066ea74190)
 
-## Measure
+## Measure (Cotation Intelligente)
 
 ![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/3b85627b-7de9-4e04-85b1-235336d188c1)
 
