@@ -37,6 +37,12 @@ Try to make a square in the front plan (Plan de face 🥖)
 
 Since you have success the step 1 now try to put a holl in the Square
 
+## Step 3 Objet Font
+
+Font your Objet to make it malliable
+
+## Step 4 Add an extension of your Objet
+
 # Part 3: Create Your First Objet
 
 ## Create an Objet of your Choice
