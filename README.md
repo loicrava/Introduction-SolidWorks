@@ -29,7 +29,7 @@ Product Key will be gived on Workshop Day
 
 ## Point of View
 
-
+![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/b67ff435-5d67-4b97-81f2-5f68a4daba34)
 
 ## Shape
 
@@ -37,7 +37,7 @@ Product Key will be gived on Workshop Day
 
 ## Measure
 
-
+![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/d52afcc0-67f3-40ed-8ab7-65f1f730b244)
 
 ## Point of View Contructable
 
