@@ -13,3 +13,5 @@ WorkShop to learn how to use SolidWorks 3D design software
 ## What we will use during this Workshop
 
 SolidWorks 3D : https://education.solidworks.fr/licence_student_standard_etudiant/
+
+## Requirement
