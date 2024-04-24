@@ -73,25 +73,34 @@ Then select rectangle from the center in shape.
 
 ![Step_One_Cube_Shape](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/f0eb19d1-7d65-4e37-b89a-bc7854023f7b)
 
-So now start from the center of your plan.
-
+Select Face Plan.
 ![Step_One_Select_FacePlan_Build](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/c9bab730-838c-465c-9eee-bbbc84a91b57)
 
-Extend it and Enter.
+Now Start from the center of the plan.
 
 ![Step_One_Select_Center](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/0bc9ada9-86c0-4e1a-94c5-9be3b3fb2ad9)
 
-
+Then you extend your shape and Enter.
 
 ![Step_One_Extend_Shape](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/e659a3d8-12a8-4a45-aad9-42e15ed76fd3)
 
+In a second time we want to give real measure to our shape, so choose cotation then a side of your shape. 
+
 ![Step_One_Cotation_Shape](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/98685f7c-da8b-49b1-91a5-5555f4bbe756)
+
+The Cotation is Implemented so next click on it and give it a 40 mm lenght then do the same with the other side.
 
 ![Step_One_GiveCotation_Measure](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/f2f6e1fe-4cf6-4c1d-b41a-00ac250b322c)
 
+Now we want our square to take some volume, so go in function then select "Brossage Extrudé".
+
 ![Step_One_Give_Volume](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/6313e7fe-2033-49f5-9d68-53d62afa72b4)
 
+So now give it 40 mm of height like in the example.
+
 ![Step_One_Finale_Cube](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/3ffdaa04-4f7d-44db-b117-085a46e1f5e7)
+
+Congratulations you juste Make a Cube !
 
 ## Step 2 Make a Holl 
 
