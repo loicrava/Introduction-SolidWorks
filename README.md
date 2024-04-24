@@ -65,13 +65,23 @@ With these devices you can create volume from a body.
 
 Try to make a square in the front plan (Plan de face 🥖)
 
+First, select face plan where you are going to put your square shape.
+
 ![Step_One_Face_Plan](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/4a05a23d-84d5-4709-b674-fec1a7629c33)
+
+Then select rectangle from the center in shape. 
 
 ![Step_One_Cube_Shape](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/f0eb19d1-7d65-4e37-b89a-bc7854023f7b)
 
+So now start from the center of your plan.
+
 ![Step_One_Select_FacePlan_Build](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/c9bab730-838c-465c-9eee-bbbc84a91b57)
 
+Extend it and Enter.
+
 ![Step_One_Select_Center](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/0bc9ada9-86c0-4e1a-94c5-9be3b3fb2ad9)
+
+
 
 ![Step_One_Extend_Shape](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/e659a3d8-12a8-4a45-aad9-42e15ed76fd3)
 
