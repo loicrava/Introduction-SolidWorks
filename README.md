@@ -29,13 +29,23 @@ Product Key will be gived on Workshop Day
 
 ## Point of View
 
+
+
 ## Shape
+
+![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/5e15668d-21a7-4632-a6e8-13066ea74190)
 
 ## Measure
 
+
+
 ## Point of View Contructable
 
+![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/d2bac447-479b-41ef-baf3-5cc2ba808f4a)
+
 ## Manipulation of Volume
+
+![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/2b864137-84d1-4a1d-a217-255bfe73ec34)
 
 # Part 2 : Manipulation of the environnement
 
