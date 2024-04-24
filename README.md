@@ -25,9 +25,9 @@ SolidWorks 3D : https://education.solidworks.fr/licence_student_standard_etudian
 
 Product Key will be gived on Workshop Day
 
-# Part 1 : Manipulation of the environnement
+# Part 1 : Description of the utility
 
-# Part 2 : Make Your first square
+# Part 2 : Manipulation of the environnement
 
 ## Step 1 Make a Square with Volume (Enix 👷)
 
