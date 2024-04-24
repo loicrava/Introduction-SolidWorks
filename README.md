@@ -65,6 +65,24 @@ With these devices you can create volume from a body.
 
 Try to make a square in the front plan (Plan de face 🥖)
 
+![Step_One_Face_Plan](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/4a05a23d-84d5-4709-b674-fec1a7629c33)
+
+![Step_One_Cube_Shape](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/f0eb19d1-7d65-4e37-b89a-bc7854023f7b)
+
+![Step_One_Select_FacePlan_Build](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/c9bab730-838c-465c-9eee-bbbc84a91b57)
+
+![Step_One_Select_Center](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/0bc9ada9-86c0-4e1a-94c5-9be3b3fb2ad9)
+
+![Step_One_Extend_Shape](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/e659a3d8-12a8-4a45-aad9-42e15ed76fd3)
+
+![Step_One_Cotation_Shape](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/98685f7c-da8b-49b1-91a5-5555f4bbe756)
+
+![Step_One_GiveCotation_Measure](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/f2f6e1fe-4cf6-4c1d-b41a-00ac250b322c)
+
+![Step_One_Give_Volume](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/6313e7fe-2033-49f5-9d68-53d62afa72b4)
+
+![Step_One_Finale_Cube](https://github.com/loicrava/Introduction-SolidWorks/assets/114694290/3ffdaa04-4f7d-44db-b117-085a46e1f5e7)
+
 ## Step 2 Make a Holl 
 
 Since you have success the step 1 now try to put a holl in the Square
