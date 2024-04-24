@@ -29,18 +29,16 @@ Product Key will be gived on Workshop Day
 
 # Part 2 : Make Your first square
 
-## Step 2 Make a Square with Volume (Enix 👷)
+## Step 1 Make a Square with Volume (Enix 👷)
 
 Try to make a square in the front plan (Plan de face 🥖)
 
-## Step 3 Make a Holl 
+## Step 2 Make a Holl 
 
 Since you have success the step 1 now try to put a holl in the Square
 
 # Part 3: Create Your First Objet
 
-## 
-
-
+## Create an Objet of your Choice
 
 
