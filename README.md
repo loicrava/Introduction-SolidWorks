@@ -25,7 +25,7 @@ SolidWorks 3D : https://education.solidworks.fr/licence_student_standard_etudian
 
 Product Key will be gived on Workshop Day
 
-# Part 1 : Description of the utility
+# Part 1 : Description of the Environement
 
 No needs to use it Until Part 2
 
