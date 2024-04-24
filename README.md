@@ -27,23 +27,35 @@ Product Key will be gived on Workshop Day
 
 # Part 1 : Description of the utility
 
+No needs to use it Until Part 2
+
 ## Point of View
+
+Here are the different ways of seeing your object (front, bottom, top, bottom, left, right, back...).
 
 ![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/b67ff435-5d67-4b97-81f2-5f68a4daba34)
 
 ## Shape
 
+The different types of shape you want to give your object (rectangle starting from the center, arc on 3 points, semi-circle...).
+
 ![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/5e15668d-21a7-4632-a6e8-13066ea74190)
 
-## Measure (Cotation Intelligente)
+## Measure (intelligent quotation)
+
+The most important device when you want to give precise values to a length (side of a square, radius of a circle, length of a triangle...).
 
 ![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/3b85627b-7de9-4e04-85b1-235336d188c1)
 
 ## Point of View Contructable
 
+This is the point of view from which you want to build your object.
+
 ![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/d2bac447-479b-41ef-baf3-5cc2ba808f4a)
 
 ## Manipulation of Volume
+
+With these devices you can create volume from a body.
 
 ![image](https://github.com/loicrava/Introduction-SolidWorks/assets/114578137/2b864137-84d1-4a1d-a217-255bfe73ec34)
 
