@@ -108,22 +108,24 @@ Since you have success the step 1 now try to put a hole in the Square.
 
 Thanks to the volume function and the shape select a face of your cube and make a Hole !
 
-## Step 3 Objet Font
+## Step 3 Object Font
 
 Font your Objet to make it malliable
 
 (Search "Congé function" on internet if you need)
 
 
-## Step 4 Add an extension of your Objet
+## Step 4 Add an extension of your Object
 
 Make an other volume starting to a face of your Object !
 Select a face then pull a triangle a circle a rectangle a square whatever you want,
 it must start from your object .
 
-# Part 3: Create Your First Objet
+# Part 3: Create Your Own Object
 
-## Create an Objet of your Choice
+## Create an Objet of your Choice 
+
+(Glasses, mouse, air pods, a coin ect...)
 
 ### attendance will be recorded by presenting this object at the end of the workshop
 
