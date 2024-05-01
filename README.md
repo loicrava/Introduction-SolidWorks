@@ -102,18 +102,29 @@ So now give it 40 mm of height like in the example.
 
 Congratulations you juste Make a Cube !
 
-## Step 2 Make a Holl 
+## Step 2 Make a Hole
 
-Since you have success the step 1 now try to put a holl in the Square
+Since you have success the step 1 now try to put a hole in the Square.
+
+Thanks to the volume function and the shape select a face of your cube and make a Hole !
 
 ## Step 3 Objet Font
 
 Font your Objet to make it malliable
 
+(Search "Congé function" on internet if you need)
+
+
 ## Step 4 Add an extension of your Objet
+
+Make an other volume starting to a face of your Object !
+Select a face then pull a triangle a circle a rectangle a square whatever you want,
+it must start from your object .
 
 # Part 3: Create Your First Objet
 
 ## Create an Objet of your Choice
+
+### attendance will be recorded by presenting this object at the end of the workshop
 
 
