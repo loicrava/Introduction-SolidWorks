@@ -23,6 +23,8 @@ We recommand you to have a Mouse for this workshop
 
 SolidWorks 3D : https://education.solidworks.fr/licence_student_standard_etudiant/
 
+SolidWorks Web : https://my.solidworks.com/try-solidworks?lang=fr
+
 Product Key will be gived on Workshop Day
 
 # Part 1 : Description of the Environement
